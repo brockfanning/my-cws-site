@@ -1,5 +1,5 @@
 ---
-title: My page title
+title: My page title!!
 layout: landing
 permalink: /my-url.html
 ---
